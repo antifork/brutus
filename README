@@ -1,0 +1,15 @@
+$Id$
+
+BRUTUS is a fast bruteforcer that tries to break in remotely using password
+guessing for TELNET, FTP and POP3 (feel free to add support for other protocols
+if you want). Login list generation through SMTP vrfy bruteforcing is also 
+supported.
+It uses Net::Telnet Perl module, included in this package (you can get it also
+at your local CPAN mirror).
+Written in one night, using one hand (other arm was broken). pHEAR.
+
+FOR EDUCATIONAL PURPOSES ONLY (tm).
+
+Author: Raptor <raptor@antifork.org>
+Homepage: http://www.antifork.org | http://raptor.antifork.org
+
